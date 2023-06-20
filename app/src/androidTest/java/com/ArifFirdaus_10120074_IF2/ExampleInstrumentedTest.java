@@ -11,8 +11,8 @@ import org.junit.runner.RunWith;
 import static org.junit.Assert.*;
 
 /**
- * NAMA    : Mohammad Noor Ihsan Akbar
- * NIM     : 10120077
+ * NAMA    : Arif Firdaus
+ * NIM     : 10120074
  * Kelas   : IF-2
  * MatKul  : Aplikasi Komputasi Bergerak
  * Pengganti UTS AKB
